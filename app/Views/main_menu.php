@@ -20,6 +20,7 @@
     <h3>📌 แบบฝึกหัดชุดที่ 1: Static & OOP Basic</h3>
     <ul>
         <li><a href="<?=  base_url('practice1/temp') ?>" target="_blank">1.1 เครื่องแปลงอุณหภูมิ (Temperature Converter)</a></li>
+        <li><a href="<?= base_url('practice2/payroll') ?>" target="_blank">1.2 คำนวณเงินเดือน</a></li>  
     </ul>
 </body>
 </html>
